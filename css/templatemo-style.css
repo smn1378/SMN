@@ -5,7 +5,9 @@ TemplateMo 556 Catalog-Z
 https://templatemo.com/tm-556-catalog-z
 
 */
-
+body{
+    direction: rtl;
+}
 #loader-wrapper {
     position: fixed;
     top: 0;
